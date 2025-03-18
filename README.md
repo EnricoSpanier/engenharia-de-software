@@ -6,13 +6,17 @@
 
 ***
 Engenharia de Software
+
 05P
 ***
+# Grupo
+
 Enrico Minto Spanier     Tia: 10419775
 
 Guilherme Vecchi Bonotti Tia: 10418517
 
 Pietro Zanaga Neto       Tia: 10418574
+
 ***
 
 
@@ -24,7 +28,10 @@ Pietro Zanaga Neto       Tia: 10418574
 
 
 SÃO PAULO
-<05/2025> 
+
+<01/2025> 
+
+***
 SUMÁRIO
 
 1	Contexto de Negócio e Processos	5
@@ -54,11 +61,15 @@ SUMÁRIO
 5	Modelo de Implantação	10
  
 1	Objetivo
-[O documento tem por objetivo descrever a situação atual do negócio e fornecer uma visão geral do escopo do produto de software a ser desenvolvido.]
+
+O objetivo geral do projeto é facilitar a entrada de novos funcionários nas empresas de portaria facilitando esses a se adaptarem as peculiaridades da portaria aonde foram escalados, usando um sistema de "manuais" que serão atualizados e comentados pelos funcionários que já trabalham na portaria, assim diminuindo os impactos negativos na velocidade e eficiência da portaria por conta de novas contratações.
+
 1.1	Necessidade de Negócio
-<Descrever problema/necessidade que o software irá solucionar/atender>
+
+Um grande problema de portarias é a adaptação e o treinamento de novos funcionários gerando ineficiência no processo de contratação, dessa forma nosso software, foi criado para minimizar o tempo de adaptação e treinamento de novos funcionários.
 
 1.2	Visão atual do Negócio
+
 < Realizar uma análise do processo atual denominado “As Is” (como é).> Elaborar um diagrama de Atividades ou BPMN de Como é os Processos Principais do Cenário de negócio definido pelo Grupo.
  
 2	Contexto de Negócio e Processos
