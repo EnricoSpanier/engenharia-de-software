@@ -1,13 +1,13 @@
-###<PORTARIA FLUIDA>
+###PORTARIA FLUIDA
 
 
 
 
 
 
-<Engenharia de Software>
+Engenharia de Software
 ***
-<05P>
+05P
 ***
 <Enrico Minto Spanier     Tia: 10419775>
 <Guilherme Vecchi Bonotti Tia: 10418517>
