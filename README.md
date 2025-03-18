@@ -1,4 +1,4 @@
-###PORTARIA FLUIDA
+#PORTARIA FLUIDA
 
 
 
@@ -9,9 +9,9 @@ Engenharia de Software
 ***
 05P
 ***
-<Enrico Minto Spanier     Tia: 10419775>
-<Guilherme Vecchi Bonotti Tia: 10418517>
-<Pietro Zanaga Neto       Tia: 10418574>
+Enrico Minto Spanier     Tia: 10419775
+Guilherme Vecchi Bonotti Tia: 10418517
+Pietro Zanaga Neto       Tia: 10418574
 ***
 
 
