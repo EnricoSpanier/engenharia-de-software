@@ -1,4 +1,4 @@
-<PORTARIA FLUIDA>
+###<PORTARIA FLUIDA>
 
 
 
@@ -6,13 +6,13 @@
 
 
 <Engenharia de Software>
-
+***
 <05P>
-
+***
 <Enrico Minto Spanier     Tia: 10419775>
 <Guilherme Vecchi Bonotti Tia: 10418517>
 <Pietro Zanaga Neto       Tia: 10418574>
-
+***
 
 
 
@@ -126,4 +126,3 @@ Figura 4 – Diagrama de Componentes
 Elaborar um diagrama de Deployment para o projeto apresentando a tecnologia que será utilizada em cada camada da arquitetura
 
 Figura X – Diagrama de Deployment
-# engenharia-de-software
