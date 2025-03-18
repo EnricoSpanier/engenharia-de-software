@@ -26,18 +26,31 @@ Pietro Zanaga Neto       Tia: 10418574
 SÃO PAULO
 <05/2025> 
 SUMÁRIO
+
 1	Contexto de Negócio e Processos	5
+
 1.1	Modelo de Negócio	5
+
 1.2	Diagrama de Classes de Domínio	5
+
 2	Casos de Uso e Requisitos	6
+
 2.1	Diagrama de Casos de Uso	6
+
 2.2	Especificação do Cenário de Caso de Uso (opcional)	6
+
 2.3	Diagrama de Estados	6
+
 2.4	Protótipo	6
+
 2.5	Requisitos Funcionais	6
+
 2.6	Requisitos Não Funcionais	6
+
 3	Modelos de Projeto	8
+
 4	Modelos de Componentes	9
+
 5	Modelo de Implantação	10
  
 1	Objetivo
