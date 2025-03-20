@@ -70,13 +70,25 @@ Um grande problema de portarias é a adaptação e o treinamento de novos funcio
 
 1.2	Visão atual do Negócio
 
-< Realizar uma análise do processo atual denominado “As Is” (como é).> Elaborar um diagrama de Atividades ou BPMN de Como é os Processos Principais do Cenário de negócio definido pelo Grupo.
+![WhatsApp Image 2025-03-19 at 14 15 49](https://github.com/user-attachments/assets/0f193f56-70df-4394-8b9f-c6e42c0b383f)
+
+![WhatsApp Image 2025-03-19 at 14 15 48](https://github.com/user-attachments/assets/1b40ed8d-98bc-4b4b-812f-bf9117e201e4)
+
+![WhatsApp Image 2025-03-19 at 14 15 49 (1)](https://github.com/user-attachments/assets/3057010e-24a6-4058-a225-fb04350fd8e9)
+
+
  
 2	Contexto de Negócio e Processos
 [Apresente de forma objetiva o contexto de negócio de seu projeto]
 
 2.1	Modelo de Negócio Proposto
-[Coloque aqui seu diagrama de Atividades/BPMN do Processo Proposto To Be]
+
+![Diagrama_EntradaVisitante(ToBe)](https://github.com/user-attachments/assets/52d02582-439f-4e4a-a4e1-52f124ecca3c)
+
+![Diagrama_EntradaMorador(ToBe)](https://github.com/user-attachments/assets/1c24108c-d8a6-4530-984d-27caf4bf0a03)
+
+![Diagrama_EntradaEncomenda(ToBe)](https://github.com/user-attachments/assets/a8c056a7-649b-4175-96e5-4ac251b2baf3)
+
 
 2.2	Diagrama de Classes de Domínio
 [Coloque aqui o Diagrama de Classes de Domínio]
